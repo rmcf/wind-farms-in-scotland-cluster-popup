@@ -8,8 +8,6 @@ Original repository: https://github.com/majaturkalj/wind-farms-in-scotland
 
 Added this code to the script section into `index.html` to make popups work with clustering plugin
 
-Rows [101-142](https://github.com/rmcf/wind-farms-in-scotland-cluster-popup/blob/90f7a5cb0b1e539e430a1efbb13615b8ef316764/index.html#L101)
-
 ```JS
       // clustering with popups
       // ==========================================================

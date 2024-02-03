@@ -3,6 +3,8 @@
 
 Live Demo: https://rmcf.github.io/wind-farms-in-scotland-cluster-popup/
 
+![Screenshot from 2024-02-03 15-10-11](https://github.com/rmcf/wind-farms-in-scotland-cluster-popup/assets/18697688/b4a11fe0-c457-46e2-8262-e27c77bd7496)
+
 I have just added this code to the script section into index.html
 
 Rows [101-142](https://github.com/rmcf/wind-farms-in-scotland-cluster-popup/blob/90f7a5cb0b1e539e430a1efbb13615b8ef316764/index.html#L101)
